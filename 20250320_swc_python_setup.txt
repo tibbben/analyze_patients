@@ -1,0 +1,6 @@
+ 9994  cd Desktop
+ 9995  ls -F
+ 9996  mkdir swc_python
+ 9997  mv data/ swc_python/
+ 9998  history | tail -n 5
+ 9999  history | tail -n 6 > swc_python/20250320_swc_python_setup.txt 
